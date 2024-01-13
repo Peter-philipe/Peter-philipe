@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Robotics Process Automation  
-- 🌱 I’m currently learning Data Science and Business Intelligence
-- 🤝🏽 I’m looking to collaborate on Data Processing
+- 🔭 I’m currently working on Robotics Process Automation with Python
+- 🤝🏽 I’m looking to collaborate on Data Processing and Automations
 - 💬 Ask me about Python issues
 
 <div align="center">
